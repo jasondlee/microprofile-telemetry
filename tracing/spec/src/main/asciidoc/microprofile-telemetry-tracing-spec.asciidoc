@@ -296,4 +296,4 @@ GlobalTracer.registerIfAbsent(tracer);
 
 == MicroProfile Telemetry and MicroProfile OpenTracing
 
-If MicroProfile Telemetry and MicroProfile OpenTracing are both present in one application, it is advised only to enable one of them. Otherwise, no portalbe behaviour will occur.
+If MicroProfile Telemetry and MicroProfile OpenTracing are both present in one application, it is advised only to enable one of them. Otherwise, no portable behaviour will occur.
